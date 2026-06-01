@@ -51,7 +51,7 @@ export default function Navbar() {
               >
                 {item.name}
                 {item.badge && (
-                  <span className="absolute -top-1.5 -right-3 rtl:-right-auto rtl:-left-3 transform translate-x-1/2 rtl:-translate-x-1/2 scale-75 inline-flex items-center px-1.5 py-0.5 rounded-full text-[9px] font-medium bg-gold-dark/20 text-gold border border-gold/20 whitespace-nowrap">
+                  <span className="absolute -top-3 left-1/2 transform -translate-x-1/2 scale-75 inline-flex items-center px-1.5 py-0.5 rounded-full text-[9px] font-medium bg-gold-dark/20 text-gold border border-gold/20 whitespace-nowrap">
                     {item.badge}
                   </span>
                 )}

@@ -1,6 +1,6 @@
 # 🏛️ IRTH (إرث) — Preserving Knowledge & Legacy
 
-> **CONFIDENTIAL • INTERNAL USE ONLY**  
+
 > *Phase 1: Minimum Viable Product (MVP) Pre-Development Technical Documentation & Repository Specification*
 
 ---
