@@ -12,7 +12,7 @@ export default function Navbar() {
   const menuItems = [
     { name: t.navHome, href: "#home" },
     { name: t.navMuseum, href: "#museum", badge: t.badgeComingSoon },
-    { name: t.navCaseStudies, href: "#case-studies" },
+    { name: t.navCaseStudies, href: "#archive" },
     { name: t.navAboutUs, href: "#about" },
     { name: t.navContact, href: "#contact" },
   ];

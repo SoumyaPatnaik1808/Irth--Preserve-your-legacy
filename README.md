@@ -1,6 +1,5 @@
 # 🏛️ IRTH (إرث) — Preserving Knowledge & Legacy
 
-
 > *Phase 1: Minimum Viable Product (MVP) Pre-Development Technical Documentation & Repository Specification*
 
 ---
